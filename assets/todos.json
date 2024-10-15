@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Finir le rapport",
+    "completed": false,
+    "color": "blue"
+  },
+  {
+    "title": "Réunion d'équipe",
+    "completed": true,
+    "color": "green"
+  },
+  {
+    "title": "Préparer la présentation",
+    "completed": false,
+    "color": "orange"
+  },
+  {
+    "title": "Appeler le client",
+    "completed": true,
+    "color": "purple"
+  },
+  {
+    "title": "Planifier les vacances",
+    "completed": false,
+    "color": "red"
+  }
+]
